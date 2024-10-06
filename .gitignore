@@ -1,0 +1,7 @@
+*.zip
+solution/
+.vscode
+results.json
+testbox/
+secrets/
+deploy_key.pub
